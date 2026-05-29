@@ -79,6 +79,7 @@ Web application enabling users to upload location-tagged images, track assistanc
 
 - GitHub: https://github.com/SriGodha
 - LinkedIn: https://www.linkedin.com/in/goli-sri-godha-a376a52aa/
+- Email: srigodha9@gmail.com
 
 ---
 

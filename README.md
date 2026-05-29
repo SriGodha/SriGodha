@@ -17,13 +17,13 @@ My goal is to create innovative solutions that combine software engineering, art
 
 ## Featured Projects
 
-### 1. E-Commerce Product Authenticity Verification
+### 1. E-Commerce Authenticity 
 Developed an AI-based system to identify counterfeit products and verify product authenticity using machine learning techniques, helping customers make trustworthy purchasing decisions.
 
 ### 2. Destitute Support Platform
 Web application enabling users to upload location-tagged images, track assistance, and facilitate donations.
 
-### 3. Voice Language Translator
+### 3. Voice Translator
 Built a real-time voice translation application that converts spoken language into translated text and speech, enabling seamless communication across multiple languages.
 
 ### 4. HealthAI

@@ -6,7 +6,6 @@ I'm a CSE(AI&ML) student passionate about building technology that creates real-
 
 My goal is to create innovative solutions that combine software engineering, artificial intelligence, and great user experiences.
 
----
 
 ## 🚀 What I'm Working On
 
@@ -15,7 +14,6 @@ My goal is to create innovative solutions that combine software engineering, art
 - Exploring Generative AI and Machine Learning solutions
 - Contributing to impactful software projects
 
----
 
 ## 💼 Featured Projects
 
@@ -34,7 +32,6 @@ Educational platform promoting water conservation and awareness through interact
 ### 🤝 Destitute Support Platform
 Web application enabling users to upload location-tagged images, track assistance, and facilitate donations.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -64,7 +61,6 @@ Web application enabling users to upload location-tagged images, track assistanc
 - Generative AI
 - Web Development
 
----
 
 ## 🌱 Currently Learning
 
@@ -73,7 +69,6 @@ Web application enabling users to upload location-tagged images, track assistanc
 - Full Stack Development
 - Cloud Technologies
 
----
 
 ## 📫 Connect With Me
 
@@ -81,6 +76,5 @@ Web application enabling users to upload location-tagged images, track assistanc
 - LinkedIn: https://www.linkedin.com/in/goli-sri-godha-a376a52aa/
 - Email: srigodha9@gmail.com
 
----
 
 > "Building solutions, learning continuously, and creating impact through technology."

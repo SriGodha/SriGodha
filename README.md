@@ -33,34 +33,14 @@ Educational platform promoting water conservation and awareness through interact
 Web application enabling users to upload location-tagged images, track assistance, and facilitate donations.
 
 
-## 🛠️ Tech Stack
+## 💻 Technical Expertise
 
-**Languages**
-- Python
-- JavaScript
-- Java
-- C
-
-**Frontend**
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Flutter
-
-**Backend**
-- FastAPI
-- REST APIs
-
-**Database**
-- MongoDB
-
-**Domains**
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Web Development
-
+- **Languages:** Python, Java, JavaScript, C
+- **Frontend:** HTML5, CSS3, Bootstrap, React
+- **Backend:** FastAPI, REST APIs
+- **Database:** SQL, MongoDB
+- **AI & ML:** Machine Learning, Artificial Intelligence
+- **Tools:** Git, GitHub, VS Code
 
 ## 🌱 Currently Learning
 

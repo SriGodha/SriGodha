@@ -20,17 +20,19 @@ My goal is to create innovative solutions that combine software engineering, art
 ### 🛒 E-Commerce Product Authenticity Verification
 Developed an AI-based system to identify counterfeit products and verify product authenticity using machine learning techniques, helping customers make trustworthy purchasing decisions.
 
+### 🤝 Destitute Support Platform
+Web application enabling users to upload location-tagged images, track assistance, and facilitate donations.
+
+### 🎙️ Voice Language Translator
+Built a real-time voice translation application that converts spoken language into translated text and speech, enabling seamless communication across multiple languages.
+
 ### 🏥 HealthAI
 AI-powered healthcare assistant built using IBM Granite, FastAPI, HTML, CSS, and JavaScript.
-
-### 🍳 Smart Recipe Generator
-Flutter application that generates recipes based on available ingredients.
 
 ### 💧 Awareness on Water Bodies
 Educational platform promoting water conservation and awareness through interactive content.
 
-### 🤝 Destitute Support Platform
-Web application enabling users to upload location-tagged images, track assistance, and facilitate donations.
+
 
 
 ## 💻 Technical Expertise
